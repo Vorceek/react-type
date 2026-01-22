@@ -3,5 +3,7 @@
 @layer base {
   body {
     font-family: ui-sans-serif, system-ui, sans-serif;
+    background-color: #1B2132;
+    color: #ffff;
   }
 }
